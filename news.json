@@ -15,7 +15,7 @@
   },
   {
     "type": "NEWS",
-    "date": "2026-01-17",
+    "Date": "2026-01-17",
     "title": "NEWSページ公開！",
     "body": "NEWSページが公開されました。",
     "tags": ["OTHER"]
