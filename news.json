@@ -13,4 +13,12 @@
     "body": "特設サイトは<a href='/live/260322/'>こちら</a>",
     "tags": ["SOLOLIVE"]
   }
+  },
+  {
+    "type": "NEWS",
+    "eventDate": "2026-01-17",
+    "title": "NEWSページ公開！",
+    "body": "NEWSページが公開されました。",
+    "tags": ["OTHER"]
+  }
 ]
