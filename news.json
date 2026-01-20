@@ -19,5 +19,12 @@
     "title": "NEWSページ公開！",
     "body": "NEWSページが公開されました。",
     "tags": ["OTHER"]
+    },
+  {
+    "type": "NEWS",
+    "Date": "2026-01-20",
+    "title": "MEMBERSページ公開！",
+    "body": "<a href='/members/'>MEMBERSページ</a>が公開されました！",
+    "tags": ["OTHER"]
   }
 ]
