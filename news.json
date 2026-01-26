@@ -26,5 +26,12 @@
     "title": "MEMBERSページ公開！",
     "body": "<a href='/members/'>MEMBERSページ</a>が公開されました。",
     "tags": ["OTHER"]
+  },
+  {
+    "type": "SCHEDULE",
+    "eventDate": "2026-02-20",
+    "title": "モータースライブ出演",
+    "body": "下北沢シアターミネルヴァ 19:00開演 前売1,600円 お取り置きはメールもしくは各種SNSのDMまで",
+    "tags": ["LIVE"]
   }
 ]
