@@ -33,5 +33,19 @@
     "title": "モータースLIVE",
     "body": "下北沢シアターミネルヴァ 19:00開演 前売1,600円 お取り置きは<a href='/about/#content'>メールもしくはInstagramかXのDM</a>まで",
     "tags": ["LIVE"]
+  },
+  {
+    "type": "SCHEDULE",
+    "eventDate": "2026-03-08",
+    "title": "モータースLIVE",
+    "body": "下北沢シアターミネルヴァ 12:00開演 前売1,600円 お取り置きは<a href='/about/#content'>メールもしくはInstagramかXのDM</a>まで",
+    "tags": ["LIVE"]
+  },
+  {
+    "type": "SCHEDULE",
+    "eventDate": "2026-03-15",
+    "title": "コンプレックス2.1",
+    "body": "エモーシア神楽坂 12:30開演 一般1,500円/学生1,000円 お取り置きは<a href='https://tiget.net/events/466707' target='_blank'>こちらから</a>",
+    "tags": ["LIVE"]
   }
 ]
