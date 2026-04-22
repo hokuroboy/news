@@ -75,5 +75,19 @@
     "title": "?????",
     "body": "下北沢 夜",
     "tags": ["SOLOLIVE"]
+  },
+  {
+    "type": "SCHEDULE",
+    "eventDate": "2026-05-02",
+    "title": "モータースLIVE",
+    "body": "下北沢シアターミネルヴァ 15:30開演 前売1,600円 お取り置きはメールもしくはInstagramかXのDMまで",
+    "tags": ["LIVE"]
+  },
+  {
+    "type": "SCHEDULE",
+    "eventDate": "2026-05-03",
+    "title": "ケイダッシュステージライブ",
+    "body": "新宿ハイジアV-1 12:00開演 前売800円 お取り置きはメールもしくはInstagramかXのDMまで",
+    "tags": ["LIVE"]
   }
 ]
