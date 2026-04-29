@@ -1,8 +1,25 @@
 [
   {
+    "date": "2026-04-28",
+    "title": "こんにちは。",
+    "slug": "260428",
+    "url": "/magazine/articles/260428.php",
+    "body": "記事の説明文が入ります。",
+    "tags": ["ESSAY"]
+  },
+  {
     "date": "2026-04-29",
     "title": "こんにちは。",
+    "slug": "260429",
     "url": "/magazine/articles/260429.php",
+    "body": "記事の説明文が入ります。",
+    "tags": ["ESSAY"]
+  },
+  {
+    "date": "2026-04-30",
+    "title": "こんにちは。",
+    "slug": "260430",
+    "url": "/magazine/articles/260430.php",
     "body": "記事の説明文が入ります。",
     "tags": ["ESSAY"]
   }
