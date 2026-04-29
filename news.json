@@ -24,7 +24,8 @@
     "type": "NEWS",
     "Date": "2026-01-20",
     "title": "MEMBERSページ公開！",
-    "body": "<a href='/members/'>MEMBERSページ</a>が公開されました。",
+    "url": "/members/",
+    "body": "MEMBERSページが公開されました。",
     "tags": ["OTHER"]
   },
   {
@@ -59,13 +60,15 @@
     "type": "NEWS",
     "Date": "2026-04-05",
     "title": "2026春 配信版販売開始！",
-    "body": "単独ライブ<a href='/video/260322.php/'>『真ん中に黒い星2026春』配信版</a>の販売が開始しました！",
+    "url": "/video/260322.php/",
+    "body": "単独ライブ『真ん中に黒い星2026春』配信版の販売が開始しました！",
     "tags": ["SOLOLIVE"]
   },
   {
     "type": "SCHEDULE",
     "eventDate": "2026-09-25",
     "title": "?????",
+    "url": "/live/260925/",
     "body": "下北沢 夜",
     "tags": ["SOLOLIVE"]
   },
