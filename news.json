@@ -92,5 +92,13 @@
     "title": "ケイダッシュステージライブ",
     "body": "新宿ハイジアV-1 12:00開演 前売800円<br>お取り置きはメール or Instagram/XのDMまで",
     "tags": ["LIVE"]
+    },
+  {
+    "type": "NEWS",
+    "Date": "2026-05-26",
+    "title": "MAGAZINEページ公開！",
+    "url": "/magazine/",
+    "body": "MAGAZINEページが公開されました。",
+    "tags": ["OTHER"]
   }
 ]
